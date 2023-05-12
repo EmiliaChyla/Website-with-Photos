@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+
+    margin: 1.5%;
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 3px solid black;
+    width: 30%;
+    margin-left: 1.5%;
+    padding: 20px 0;
+    font-family: 'Wix Madefor Display', sans-serif;
+
+}
